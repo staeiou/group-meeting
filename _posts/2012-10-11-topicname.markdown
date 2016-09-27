@@ -3,6 +3,7 @@ layout: post
 title: This is meeting number 1
 comments: true
 category: past
+description: This is a description of the talk.
 tags: meeting <+ tags +>
 ---
 
