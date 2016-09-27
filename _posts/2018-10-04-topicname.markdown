@@ -2,6 +2,7 @@
 layout: post
 title: Topic TBD -- Speaker
 comments: true
+description: This is a description.
 category: upcoming
 tags: meeting <+ tags +>
 ---
