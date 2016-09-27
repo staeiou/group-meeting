@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Topic TBD -- Speaker
+title: This is meeting number 1
 comments: true
 category: past
 tags: meeting <+ tags +>
 ---
 
-## Presenters
+## Speaker number one
+
 ### Name1
 ### Name2
 
