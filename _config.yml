@@ -1,11 +1,5 @@
-future true;lsadk
-ksam
-lj
-;ldsajd;lsamd
-;lsamd
-lm
-sa
-markdown kramdown
+future: true
+markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
